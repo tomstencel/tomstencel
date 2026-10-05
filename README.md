@@ -1,61 +1,81 @@
-# Tomek Stencel
+# Hi, I'm Tomasz Stencel
 
-**IT / Cybersecurity / Forensics** · [TOMEK.ST](https://tomek.st)
+SOC Analyst L1 / Junior Security Analyst · CompTIA Security+ · Blue Team
 
-I keep systems up, then I read what they recorded. The work runs from Windows and Linux administration through security monitoring, incident analysis and digital forensics. I configure it, check the logs, and leave notes someone else can follow.
+*IT → bezpieczeństwo operacyjne · Kroczyce / Śląskie · open to remote*
 
-**[tomasz.stencel@gmail.com](mailto:tomasz.stencel@gmail.com)** · [hello@tomek.st](mailto:hello@tomek.st) · [LinkedIn](https://linkedin.com/in/tomek-stencel) · [tomek.st](https://tomek.st)
-
-| | |
-| :--- | :--- |
-| **Open to** | IT administration · Security Analyst / SOC · assessment and hardening · information research |
-| **Based** | Poland · remote · Polish and English |
-| **Now** | Hands-on IT, building a practice in security operations and forensics |
-
-If a role needs that — or you want a second pair of eyes on a lab, a detection or a forensic question — the personal address is the direct one.
-
-## Experience
+I come from hands-on IT support and small-network administration. I keep systems running, then I read what they recorded — logs, incidents, and forensic trails — and I'm building toward a SOC L1 / junior security analyst role.
 
 | | |
-| :--- | :--- |
-| **Kyndryl / IBM** · ~2022 | IT Assistant / Junior IT Administrator. Helpdesk, user and training support, Microsoft SQL, IIS, Event Viewer, DNS, file servers. |
-| **Jan-Mar BIS** | ISP infrastructure. Networks, internet services, technical support. |
-| **SP-PROJEKT** | Low-voltage installations, access control, intrusion alarms (SSWiN), CCTV, IP, LAN/WLAN. |
-| **PHU Larys / PHU WET Kroczyce** | Sales and the technical side. IT for a small site (about six PCs), LAN, POS, documentation, IT oversight, a small team. |
+|:--|:--|
+| **Target roles** | SOC Analyst L1 · Junior Security Analyst · (bridge OK: IT support / junior admin with a path into cyber) |
+| **Location** | Kroczyce, Silesia, Poland · remote preferred · hybrid/onsite ~100 km · relocation only to Katowice |
+| **Languages** | Polish (native) · English B2 |
+| **Certifications** | CompTIA Security+ · CompTIA A+ · CompTIA Cloud+ |
 
-Support and administration, then infrastructure and networking, and from there into cybersecurity, SOC, forensics and security research. Alongside that: OSINT, automation and web.
-
-## Focus
-
-**Administration.** Windows and Linux, servers, LAN/WLAN, DNS, IIS, Microsoft SQL, file services, monitoring, troubleshooting, documentation, user support.
-
-**Security.** Basic to intermediate assessments, hardening, monitoring, log and incident analysis, SOC work, security research, lab fundamentals of penetration testing, automation of security tasks.
-
-**Forensics and OSINT.** Artifacts, logs, incident timelines, technical notes, forensic labs. Open-source research and information verification, from a completed information-broker course. Public sources, within the law.
-
-**Web.** Small sites that stay easy to keep: Astro, Decap CMS, GitHub and Cloudflare Pages, or Astra, Cursor, GitHub and a VPS.
-
-## In the lab
-
-Personal projects. Each one on [tomek.st](https://tomek.st) has a status. They are a way of working, kept separate from client deployments.
-
-- **SOC Home Lab.** Monitoring, detection, alert review, correlation, MITRE ATT&CK, Wazuh, OpenSearch, Sigma, incident notes. I use it to practise SOC work.
-- **Architektura Niewidzialności.** An interactive guide to privacy, anonymity and OPSEC. Still being written.
-- Articles, documentation and resources on [tomek.st](https://tomek.st).
-
-## Stack
-
-Windows · Windows Server · Debian · Ubuntu · Kali · Bash · SQL · Python · Wazuh · OpenSearch · Nmap · VirtualBox · GitHub · Astro · Docker · n8n · Selenium
-
-Networks: TCP/IP, LAN/WLAN, DNS, routing basics. Python, n8n and Docker are at a working-basics level. JIRA and GLPI from day-to-day IT work.
-
-## Credentials
-
-**CompTIA Security+** · **CompTIA A+** (1000 series) · information broker · IODO / DPO (data protection) · Google Cybersecurity for Business · Google Analytics Advanced · Google Computational Thinking · PARP occupational safety for SMEs
-
-General secondary school in Szczekociny, Polish matura. Formal study in cybersecurity is the step I'm planning next.
+**Reach me:** [tomasz.stencel+jobseek@gmail.com](mailto:tomasz.stencel+jobseek@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tomasz-stencel) · [www.tomek.st](https://www.tomek.st)
 
 ---
 
-**[tomasz.stencel@gmail.com](mailto:tomasz.stencel@gmail.com)**  
-[hello@tomek.st](mailto:hello@tomek.st) · [tomek.st](https://tomek.st) · [LinkedIn](https://linkedin.com/in/tomek-stencel)
+## What I bring
+
+**On the job (commercial):** antivirus · firewall · IDS/IPS · WAF · routers and switches · IAM / MFA · LAN helpdesk · Windows · CCTV, access control and intrusion alarms (SKD / SSWiN)
+
+**Also practiced:** GDPR / RODO · incident-handling basics · solid ISO/OSI · cloud platforms — **AWS**, **GCP**, **Oracle Cloud (OCI)**, **IBM Cloud**
+
+**Home lab only (not commercial):** SIEM with **Wazuh** · detection and triage · MITRE ATT&CK · Proxmox · Windows Server AD/DNS · Linux · Nmap · Wireshark · OpenVPN · Bash / PowerShell / Python · Docker · Git
+
+---
+
+## Background
+
+| | | |
+|:--|:--|:--|
+| IT Assistant | Kyndryl | 2022 — training-session support and technical advice (remote, Katowice) |
+| IT Supervisor / Sales | PHU Larys | 2016–2020 — LAN (~6 PCs), helpdesk, POS, docs, small team (Kroczyce) |
+| Installer / technician | SP-Projekt | 2015 — LAN/WLAN, access control, SSWiN, CCTV (IP) |
+| IT Supervisor / Sales | PHU WET | 2009–2013 — LAN, helpdesk, network upkeep, POS (Kroczyce) |
+| Internet cafe & PC tech | Jan-Mar BIS | 2006–2008 — helpdesk, hosting accounts, PC/GSM service, data recovery (Katowice) |
+
+Support → installs and networking → security operations (certs + lab).
+
+---
+
+## How I work
+
+**Security operations** — monitoring mindset, log review, incident-handling basics, hardening awareness; aiming at Blue Team / SOC L1.
+
+**Administration** — Windows and Linux endpoints, LAN/WLAN, DNS basics, troubleshooting, clear documentation, user support.
+
+**Forensics & OSINT** — artifacts, logs, incident timelines, technical notes; open-source research and verification (information-broker course). Public sources only, within the law.
+
+---
+
+## Lab & portfolio
+
+Personal work — status tracked on [tomek.st](https://www.tomek.st). Separate from client or commercial deployments.
+
+- **SOC Home Lab** on Proxmox — Wazuh SIEM, detection, triage, Windows Server AD/DNS, Linux, MITRE ATT&CK
+- **Digital forensics / IR labs** — timelines, disk analysis (research / in development)
+- **OpenVPN on Oracle Cloud** (Ubuntu 22.04) — completed lab
+- **Architektura Niewidzialności** — interactive guide to privacy, anonymity and OPSEC (in progress)
+
+---
+
+## Credentials
+
+**CompTIA (obtained):** Security+ · A+ · Cloud+
+
+**Courses / training:**
+- Kurs IODO / RODO — personal data protection for SMEs
+- Information-broker training course
+- Google Cybersecurity for Business
+- Google Analytics Advanced
+- Google Computational Thinking
+- PARP occupational safety for SMEs
+
+**Education:** LO przy Zespole Szkół w Szczekocinach — mathematics & computer science track, matura (2002–2006)
+
+---
+
+[www.tomek.st](https://www.tomek.st) · [linkedin.com/in/tomasz-stencel](https://www.linkedin.com/in/tomasz-stencel) · [tomasz.stencel+jobseek@gmail.com](mailto:tomasz.stencel+jobseek@gmail.com)
